@@ -10152,3 +10152,12 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+.map-area {
+    height: 550px;
+    width: 100%;
+}
+
+.map-area iframe {
+    height: 100%;
+    width: 100%;
+}
