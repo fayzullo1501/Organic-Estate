@@ -6387,6 +6387,10 @@ a.close.disabled {
   background-color: #232323 !important;
 }
 
+.bg-primary2 {
+  background-image: url(../img/carousel-1.jpg);
+}
+
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
@@ -9566,6 +9570,10 @@ a.text-primary:hover, a.text-primary:focus {
 
 .text-secondary {
   color: #23A036 !important;
+}
+
+.text-secondary1 {
+  color: white !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
